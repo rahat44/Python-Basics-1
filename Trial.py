@@ -1,0 +1,1 @@
+import turtlewn = turtle.Screen()june = turtle.Turtle()for _ in range(4):    june.color("green", "yellow")    june.forward("50")    june.right(90)
