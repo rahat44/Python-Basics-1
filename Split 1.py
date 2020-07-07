@@ -6,7 +6,7 @@ Created on Fri May 15 16:24:32 2020
 @author: smrahman
 """
 
-# 5. Provided is a list of data about a store’s inventory where each item in the list represents the name of an item, how much is in stock, and how much it costs.
+# Question: Provided is a list of data about a store’s inventory where each item in the list represents the name of an item, how much is in stock, and how much it costs.
 # Print out each item in the list with the same formatting, using the .format method (not string concatenation).
 # For example, the first print statment should read The store has 12 shoes, each for 29.99 USD.
 
